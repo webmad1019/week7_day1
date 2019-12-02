@@ -27,11 +27,11 @@
    * Disponen de las propiedades en `this.props` - requiere de constructor y método `.super()`
 
 
- * Desarrollo de componentes:
+- Desarrollo de componentes:
 
-   * Importar React y, en caso de componentes de clase, `{ Component }`
-   * Declaración del componente.
-   * Exportación por defecto o nominal del componente.
+ * Importar React y, en caso de componentes de clase, `{ Component }`
+ * Declaración del componente.
+ * Exportación por defecto o nominal del componente.
 
 
 ## Main points: JSX
