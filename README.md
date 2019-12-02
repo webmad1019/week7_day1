@@ -13,7 +13,7 @@
 
 ## Main points: Componentes
 - Existen dos tipos de componentes en React:
- * Componentes funcionales:
+ - Componentes funcionales:
    * Funciones de Javascript
    * Stateless
    * Retornan JSX
@@ -29,9 +29,9 @@
 
 - Desarrollo de componentes:
 
- * Importar React y, en caso de componentes de clase, `{ Component }`
- * Declaración del componente.
- * Exportación por defecto o nominal del componente.
+  * Importar React y, en caso de componentes de clase, `{ Component }`
+  * Declaración del componente.
+  * Exportación por defecto o nominal del componente.
 
 
 ## Main points: JSX
