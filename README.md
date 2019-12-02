@@ -13,14 +13,14 @@
 
 ## Main points: Componentes
 - Existen dos tipos de componentes en React:
-  * Componentes funcionales:
+ * Componentes funcionales:
    * Funciones de Javascript
    * Stateless
    * Retornan JSX
    * Disponen de las propiedades en el parámetro por defecto props
 
 
-  * Componentes de clase:
+ * Componentes de clase:
    * Clases de Javascript
    * Stateful
    * Retornan JSX a través de su método `.render()`
