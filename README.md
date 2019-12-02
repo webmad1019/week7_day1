@@ -28,7 +28,6 @@
 
 
 - Desarrollo de componentes:
-
   * Importar React y, en caso de componentes de clase, `{ Component }`
   * Declaración del componente.
   * Exportación por defecto o nominal del componente.
